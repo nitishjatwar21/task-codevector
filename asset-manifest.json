@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/task-codevector/static/css/main.e0ff0436.chunk.css",
+    "main.js": "/task-codevector/static/js/main.0e7981a9.chunk.js",
+    "main.js.map": "/task-codevector/static/js/main.0e7981a9.chunk.js.map",
+    "runtime~main.js": "/task-codevector/static/js/runtime~main.928f0f79.js",
+    "runtime~main.js.map": "/task-codevector/static/js/runtime~main.928f0f79.js.map",
+    "static/js/2.0d9a24f8.chunk.js": "/task-codevector/static/js/2.0d9a24f8.chunk.js",
+    "static/js/2.0d9a24f8.chunk.js.map": "/task-codevector/static/js/2.0d9a24f8.chunk.js.map",
+    "index.html": "/task-codevector/index.html",
+    "precache-manifest.4ed32f4271d2dff7697686e1f2ae33aa.js": "/task-codevector/precache-manifest.4ed32f4271d2dff7697686e1f2ae33aa.js",
+    "service-worker.js": "/task-codevector/service-worker.js",
+    "static/css/main.e0ff0436.chunk.css.map": "/task-codevector/static/css/main.e0ff0436.chunk.css.map",
+    "static/media/avenger.jpg": "/task-codevector/static/media/avenger.2285db28.jpg",
+    "static/media/jumanji.jpg": "/task-codevector/static/media/jumanji.9c97f4d6.jpg",
+    "static/media/logo.svg": "/task-codevector/static/media/logo.5d5d9eef.svg",
+    "static/media/mib.jpg": "/task-codevector/static/media/mib.6725a760.jpg",
+    "static/media/playstar.jpg": "/task-codevector/static/media/playstar.e3d704fe.jpg",
+    "static/media/sanju.jpg": "/task-codevector/static/media/sanju.7607f478.jpg",
+    "static/media/uri.jpg": "/task-codevector/static/media/uri.b76dee06.jpg"
+  }
+}
