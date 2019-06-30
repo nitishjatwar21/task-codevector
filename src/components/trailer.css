@@ -1,0 +1,10 @@
+.margin{
+    padding: 5%;
+    /* transition: 1s; */
+}
+.container-fluid{
+    margin: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+

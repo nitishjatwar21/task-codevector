@@ -1,0 +1,14 @@
+.cont{
+    max-height: 35%;
+}
+.carousel .item{
+    
+    height: 360px;
+}
+.item img {
+    position: absolute;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
