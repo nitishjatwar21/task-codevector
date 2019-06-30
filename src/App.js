@@ -1,5 +1,5 @@
 import React from 'react';
-import { HashRouter , Route} from 'react-router-dom';
+import { HashRouter as Router, Route} from 'react-router-dom';
 import logo from './logo.svg';
 import './App.css';
 import Home from './pages/home';
@@ -10,7 +10,7 @@ import Register from './pages/register'
 
 function App() {
   return (
-    <HashRouter>
+    <Router>
       <div>
         <Route exact path='/' component={Home}/>
         <Route exact path='/about/' component={About}/>
@@ -20,7 +20,7 @@ function App() {
         <Route exact path='/register/' component={ Register }/>
       </div>
       
-    </HashRouter>
+    </Router>
    
   );
 }
